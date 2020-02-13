@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "e2e_archive/index.md",
+      "redirect_url": "/archive-target-2/index",
+      "redirect_document_id": false
+    }
+  ]
+}

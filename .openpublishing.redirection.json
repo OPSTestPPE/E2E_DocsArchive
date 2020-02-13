@@ -1,0 +1,14 @@
+{
+  "redirections": [
+    {
+      "source_path": "e2e_archive/fallback.md",
+      "redirect_url": "/fresh-archive-does-it-work/fallback",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "e2e_archive/overview.md",
+      "redirect_url": "/fresh-archive-does-it-work/overview",
+      "redirect_document_id": false
+    }
+  ]
+}

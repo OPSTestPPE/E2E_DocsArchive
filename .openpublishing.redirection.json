@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "e2e_archive/overview.md",
+      "redirect_url": "/e2e_archiveDocs/overview",
+      "redirect_document_id": false
+    }
+  ]
+}

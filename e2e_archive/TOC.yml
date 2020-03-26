@@ -5,6 +5,3 @@
   - name: Overview
     href: overview.md
 - name: Fallback
-  items:
-  - name: Fallback
-    href: fallback.md

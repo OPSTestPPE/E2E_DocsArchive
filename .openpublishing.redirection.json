@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "e2e_archive/fallback.md",
+      "redirect_url": "/archive/e2e_archiveDocs_20200520193057/fallback",
+      "redirect_document_id": false
+    }
+  ]
+}
